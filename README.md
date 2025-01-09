@@ -1,4 +1,4 @@
-#Irrigation Bot
+# Irrigation Bot
 
 The **Arduino-Based Irrigation Bot** is a smart system that automates plant watering. It allows the user to set a moisture level between 0 and 1000 (by increments of 10), and keeps the moisture at that level. 
 
