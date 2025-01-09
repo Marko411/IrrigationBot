@@ -1,0 +1,11 @@
+Line #,Name,Description,Designator,Revision ID,Revision State,Revision Status,Quantity,Manufacturer 1,Manufacturer Part Number 1,Manufacturer Lifecycle 1,Supplier 1,Supplier Part Number 1,Supplier Unit Price 1,Supplier Subtotal 1
+
+"","Analog Joystick","","","CMP-00028-00007-1","Draft","Out of date","1","","","","","","",""
+"","DC Motor","","","CMP-00030-00001-1","Draft","Up to date","1","","","","","","",""
+"","Moisture Sensor","Senses moisture by testing conductivity between two prongs and sending a signal back","","CMP-00030-00002-1","Draft","Up to date","1","","","","","","",""
+"","ARDUINO UNO","","Arduino Uno","CMP-003-000001-1","Draft","Up to date","1","","","","","","",""
+"","HD44780","Character LCD Display Module Transflective 5 x 8 Dots STN - Super-Twisted Nematic LED - White Parallel 98.00mm x 60.00mm x 11.60mm","DIS","CMP-005-000000-1","Draft","Up to date","1","","","","","","",""
+"","QBLP595-R","Chip LED 0402, Red, 0.02 A, 2.0 to 2.5 V, -40 to 80 degC, 2-Pin SMD, RoHS, Tape and Reel","Green_LED, Red_LED","CMP-007-00040-3","Draft","Up to date","2","QT-Brightek","QBLP595-R","Unknown","Newark","07AM0286","0.092","0.46"
+"","MMBT2222AM3T5G","NPN General Purpose Transistor, 3-Pin SOT-723, Pb-Free, Tape and Reel","Q1","CMP-013-00028-2","Draft","Up to date","1","ON Semiconductor","MMBT2222AM3T5G","Volume Production","Mouser","863-MMBT2222AM3T5G","0.15","0.15"
+"","Resistor 200R +/-5 % 0402 63 mW","Chip Resistor, 200 Ohms, +/-5 %, 63 mW, -55 to 155 degC, 0402","R1, R2","CMP-009-00161-3","Draft","Up to date","2","Bourns","CR0402-JW-201GLF","Volume Production","Mouser","652-CR0402-JW-201GLF","0.006","0.06"
+"","Resistor 10k +/-1% 0603 100 mW","Chip Resistor, 10 KOhm, +/- 1%, 01 W, -55 to 155 degC, 0603 (1608 Metric)","R3","CMP-009-00017-5","Draft","Up to date","1","Vishay","CRCW060310K0FKEA","Volume Production","Newark","61M5335","0.01","0.01"

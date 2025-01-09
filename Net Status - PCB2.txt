@@ -1,0 +1,26 @@
+Net Status Report
+Filename     : C:\Users\Public\Documents\Altium\IrrigationBot\PCB2.PcbDoc
+Date         : 1/9/2025
+Time         : 3:12:12 AM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    9V, Signal Layers Only, 0mils
+    GND, Signal Layers Only, 0mils
+    Net*_1, Signal Layers Only, 0mils
+    Net*_2, Signal Layers Only, 0mils
+    Net*_3, Signal Layers Only, 3368.473mils
+    Net*_4, Signal Layers Only, 0mils
+    NetArduino Uno_10, Signal Layers Only, 1643.713mils
+    NetArduino Uno_11, Signal Layers Only, 1809.398mils
+    NetArduino Uno_12, Signal Layers Only, 1850.82mils
+    NetArduino Uno_3, Signal Layers Only, 740.636mils
+    NetArduino Uno_4, Signal Layers Only, 1033.804mils
+    NetArduino Uno_6, Signal Layers Only, 1709.987mils
+    NetArduino Uno_7, Signal Layers Only, 1709.987mils
+    NetArduino Uno_9, Signal Layers Only, 1643.713mils
+    NetGreen_LED_2, Signal Layers Only, 97.163mils
+    NetQ1_1, Signal Layers Only, 327.408mils
+    NetR2_2, Signal Layers Only, 474.094mils
+    VCC, Signal Layers Only, 0mils
+count : 18

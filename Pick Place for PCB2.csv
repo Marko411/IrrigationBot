@@ -1,0 +1,22 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\IrrigationBot\Project Outputs for IrrigationBot\Pick Place for PCB2.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       09/01/25
+Time:       04:05
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"Analog Joystick","Comment","TopLayer","Analog_Joystick-Footprint-1","5175.000","3875.000","0",""
+"R3","Comment","TopLayer","RESC0402(1005)_L","4450.000","3125.000","0",""
+"R2","Resistor 200R +/-5 % 0402 63 mW","TopLayer","RESC0402(1005)_L","4187.283","3125.000","0","Chip Resistor, 200 Ohms, +/-5 %, 63 mW, -55 to 155 degC, 0402"
+"R1","Resistor 200R +/-5 % 0402 63 mW","TopLayer","RESC0402(1005)_L","4027.284","2880.000","0","Chip Resistor, 200 Ohms, +/-5 %, 63 mW, -55 to 155 degC, 0402"
+"Red_LED","QBLP595-R","TopLayer","QTB-QBLP595_V","4410.000","2880.000","0","Chip LED 0402, Red, 0.02 A, 2.0 to 2.5 V, -40 to 80 degC, 2-Pin SMD, RoHS, Tape and Reel"
+"Q1","MMBT2222AM3T5G","TopLayer","ROHM-SOT723-3_V","4745.000","2990.000","90","NPN General Purpose Transistor, 3-Pin SOT-723, Pb-Free, Tape and Reel"
+"Green_LED","QBLP595-R","TopLayer","QTB-QBLP595_V","4157.913","2875.000","180","Chip LED 0402, Red, 0.02 A, 2.0 to 2.5 V, -40 to 80 degC, 2-Pin SMD, RoHS, Tape and Reel"
+"","HD44780","TopLayer","16026-16X2","2704.843","4135.827","0","Character LCD Display Module Transflective 5 x 8 Dots STN - Super-Twisted Nematic LED - White Parallel 98.00mm x 60.00mm x 11.60mm"
+"Arduino Uno","ARDUINO UNO","TopLayer","ARDUINO_UNO","2815.315","2235.118","0",""
