@@ -20,4 +20,4 @@ The system consists of the following major components:
 4. **User Interface:**
    - LCD display to allow users to set and monitor moisture thresholds and readings.
 5. **PCB:**
-   - Custom PCB for cleaner design and easier integration with mechanical component.
+   - Custom PCB for cleaner design and easier integration with mechanical component (files in PCB branch).
